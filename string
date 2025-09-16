@@ -1,0 +1,14 @@
+item1=float(input("enter value1"))
+item2=float(input("enter value2"))
+item3=float(input("enter value3"))
+total=item1+item2+item3
+total1=round(total,2)
+print(total1)
+string1="shreya"
+string2="Hisariya"
+string_total=string1+' '+string2
+print(string_total)
+print(string1[0:4])
+num1=12
+total3=string1+str(num1)
+print(total3)
