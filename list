@@ -1,0 +1,11 @@
+items=['a','b','c','d']
+print(items)
+print(items[0])
+print(items[0:4])
+items[0]='f'
+print(items[0])
+items.append("g")
+print(items)
+items.insert(1, "a1")
+print
+
