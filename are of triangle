@@ -1,0 +1,5 @@
+length=2
+b=3
+h=4
+area=length*b*h
+print(area)
